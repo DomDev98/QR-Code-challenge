@@ -20,7 +20,7 @@ A Frontend Mentor project to replicate a given design of a QR code graphic with 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-solution-d0VdPWzpPQ)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/qr-code-solution-d0VdPWzpPQ)
 - Live Site URL: [Live Site](https://domdev98.github.io/QR-Code-challenge/)
 
 ## My process

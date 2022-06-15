@@ -20,8 +20,8 @@ A Frontend Mentor project to replicate a given design of a QR code graphic with 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-solution-d0VdPWzpPQ)
+- Live Site URL: [Live Site](https://domdev98.github.io/QR-Code-challenge/)
 
 ## My process
 This was a simple introduction to image and flexbox formatting. Some simple semantic markup was used as well to organize the HTML in a more readable way.
